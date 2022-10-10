@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Practica_UML_y_C.Serie">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Chapter" Type="Practica_UML_y_C.Chapter" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.25" Y="3.146" />
+        <Point X="4.25" Y="3.899" />
+        <Point X="6.25" Y="3.899" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAACAICAAAAAAAAAAAAAAAAAABAAAAgAAgAgAAAAABA=</HashCode>
+      <FileName>Series.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Chapter" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Practica_UML_y_C.Season">
+    <Position X="6" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAQAAAAAAAAAAAAgAAAAAAAAE=</HashCode>
+      <FileName>Season.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Chapter" />
+      <Property Name="Serie" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Practica_UML_y_C.Chapter">
+    <Position X="6.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAJAAAAAAAAAAAAACAAAAAAABAACAAAAAAA=</HashCode>
+      <FileName>Chapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Practica_UML_y_C.User">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Chapter" Type="Practica_UML_y_C.Chapter" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.25" Y="2.565" />
+        <Point X="1.25" Y="4.659" />
+        <Point X="6.25" Y="4.659" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>QAIAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAgAABE=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Serie" />
+      <Property Name="Chapter" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

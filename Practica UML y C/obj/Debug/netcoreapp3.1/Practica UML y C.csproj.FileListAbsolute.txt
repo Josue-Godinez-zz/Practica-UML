@@ -1,0 +1,11 @@
+C:\Users\josue\Documents\Visual Studio 2019\Programacion II\Practica\Practica UML y C\bin\Debug\netcoreapp3.1\Practica UML y C.exe
+C:\Users\josue\Documents\Visual Studio 2019\Programacion II\Practica\Practica UML y C\bin\Debug\netcoreapp3.1\Practica UML y C.deps.json
+C:\Users\josue\Documents\Visual Studio 2019\Programacion II\Practica\Practica UML y C\bin\Debug\netcoreapp3.1\Practica UML y C.runtimeconfig.json
+C:\Users\josue\Documents\Visual Studio 2019\Programacion II\Practica\Practica UML y C\bin\Debug\netcoreapp3.1\Practica UML y C.runtimeconfig.dev.json
+C:\Users\josue\Documents\Visual Studio 2019\Programacion II\Practica\Practica UML y C\bin\Debug\netcoreapp3.1\Practica UML y C.dll
+C:\Users\josue\Documents\Visual Studio 2019\Programacion II\Practica\Practica UML y C\bin\Debug\netcoreapp3.1\Practica UML y C.pdb
+C:\Users\josue\Documents\Visual Studio 2019\Programacion II\Practica\Practica UML y C\obj\Debug\netcoreapp3.1\Practica UML y C.csprojAssemblyReference.cache
+C:\Users\josue\Documents\Visual Studio 2019\Programacion II\Practica\Practica UML y C\obj\Debug\netcoreapp3.1\Practica UML y C.AssemblyInfoInputs.cache
+C:\Users\josue\Documents\Visual Studio 2019\Programacion II\Practica\Practica UML y C\obj\Debug\netcoreapp3.1\Practica UML y C.AssemblyInfo.cs
+C:\Users\josue\Documents\Visual Studio 2019\Programacion II\Practica\Practica UML y C\obj\Debug\netcoreapp3.1\Practica UML y C.dll
+C:\Users\josue\Documents\Visual Studio 2019\Programacion II\Practica\Practica UML y C\obj\Debug\netcoreapp3.1\Practica UML y C.pdb
